@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 # abort on errors
-#set -e
+set -e
 # build
 yarn run build
 # navigate into the build output directory
