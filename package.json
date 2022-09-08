@@ -9,6 +9,7 @@
     "deploy": "zsh deploy.sh"
   },
   "dependencies": {
+    "bootstrap-vue": "^2.22.0",
     "core-js": "^3.8.3",
     "vue": "^2.6.14"
   },
