@@ -1,5 +1,7 @@
 # hello-world-vue2
 
+watch live in https://wyanez.github.io/hello-world-vue2/
+
 ## Project setup
 ```
 yarn install
